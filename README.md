@@ -4,3 +4,6 @@
 ### Once i figured it out, i was able to call on my back-end with no issue and continued with my project. It was better for me to create the service file becuase i was able to call on methods using dotnotation.
 ### The code logic I provided is just me implementing the edit button component and having it display when it is clicked side by side of the specific student based off of the id. This allowed me to clicke the button and view changes without ever leaving the main dashboard. The Beauty of react!
 ### I'm still getting better everyday with react and this was a great learning project.
+
+
+### You can view te full project here https://github.com/NeverGiveUp23/Java-React
